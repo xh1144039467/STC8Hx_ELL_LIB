@@ -1,0 +1,2 @@
+# STC8Hx_ELL_LIB
+STC8x库封装函数
